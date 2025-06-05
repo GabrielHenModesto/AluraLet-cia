@@ -91,3 +91,36 @@ footer {
   font-size: 0.95rem;
   color: #5c5c5c;
 }
+
+.sobre-section {
+  padding: 2rem 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sobre-section h2 {
+  font-family: 'Red Rose', serif;
+  color: #588157;
+  margin-bottom: 1rem;
+}
+.formacao {
+  margin-top: 1.5rem;
+  text-align: left;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.formacao h3 {
+  font-family: 'Red Rose', serif;
+  color: #588157;
+  margin-bottom: 0.5rem;
+}
+.formacao ul {
+  list-style: none;
+  padding: 0;
+}
+.formacao li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
